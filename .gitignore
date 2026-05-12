@@ -1,0 +1,7 @@
+venv/
+
+*.pdf
+
+.codex/
+.agents/
+.claude/
